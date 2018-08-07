@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "variables"
+		},
+		{
+			"path": "functions"
 		}
 	],
 	"settings": {
