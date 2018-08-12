@@ -23,6 +23,12 @@
 		},
 		{
 			"path": "rectangles"
+		},
+		{
+			"path": "communicator"
+		},
+		{
+			"path": "privacy"
 		}
 	],
 	"settings": {
